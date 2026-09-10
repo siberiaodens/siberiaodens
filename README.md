@@ -1,15 +1,5 @@
 ![Kai's terminal: curious mind, automation enthusiast, builder of things. Based in Switzerland.](assets/terminal-header.svg)
 
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Website-siberiaodens.com-2ea44f?style=for-the-badge)](https://siberiaodens.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/siberiaodens/)
-
-*Understand how it works. Make it simpler. Automate the repetitive bits.*
-
-</div>
-
----
 
 ## 🚀 A little about me
 
@@ -82,14 +72,23 @@ mindset:
   - Stay curious and keep experimenting
 ```
 
----
+
+
+
+
+## 📬 Let's connect
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-siberiaodens.com-2ea44f?style=for-the-badge)](https://siberiaodens.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/siberiaodens/)
+</div>
 
 <div align="center">
 
-### 📬 Let's connect
+---
 
-Always happy to talk about smart homes, automation, AI, or an interesting idea.
-
-[Website](https://siberiaodens.com) · [LinkedIn](https://www.linkedin.com/in/siberiaodens/) · [Email](mailto:schmockerkai@gmail.com)
+*Understand how it works. Make it simpler. Automate the repetitive bits.*
 
 </div>
+
+
