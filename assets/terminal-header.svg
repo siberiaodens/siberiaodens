@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="380" viewBox="0 0 960 380" role="img" aria-labelledby="title desc">
+  <title id="title">Kai's terminal — siberiaodens</title>
+  <desc id="desc">A dark Linux-style terminal. Kai, based in Switzerland. Curious mind, automation enthusiast, builder of things. Understand, simplify, automate.</desc>
+  <rect width="960" height="380" rx="10" fill="#080b0a"/>
+  <rect x="1" y="1" width="958" height="378" rx="9" fill="none" stroke="#263029" stroke-width="2"/>
+  <path d="M10 1H950Q959 1 959 10V44H1V10Q1 1 10 1Z" fill="#111512"/>
+  <path d="M1 44H959" stroke="#263029"/>
+  <circle cx="23" cy="23" r="5" fill="#ff6158"/>
+  <circle cx="42" cy="23" r="5" fill="#ffc34a"/>
+  <circle cx="61" cy="23" r="5" fill="#36c94d"/>
+  <g font-family="'DM Mono', 'DejaVu Sans Mono', Consolas, monospace">
+    <text x="480" y="28" text-anchor="middle" font-size="12" fill="#8f9990">kai@siberiaodens: ~</text>
+    <text x="36" y="86" font-size="14"><tspan fill="#9cff57">kai@siberiaodens</tspan><tspan fill="#8f9990">:</tspan><tspan fill="#69aef8">~</tspan><tspan fill="#ecefe7">$ ./hello.sh</tspan></text>
+    <text x="36" y="126" font-size="11" letter-spacing="2" fill="#8f9990">USER: KAI  /  LOCATION: CH  /  MODE: CURIOUS</text>
+    <text x="33" y="192" font-size="48" letter-spacing="-2" fill="#ecefe7">Hey, I'm Kai<tspan fill="#9cff57">.</tspan></text>
+    <text x="36" y="235" font-size="16" fill="#9cff57">Curious mind. Automation enthusiast. Builder of things.</text>
+    <path d="M36 266H924" stroke="#263029"/>
+    <text x="36" y="301" font-size="14" fill="#8f9990">understand <tspan fill="#9cff57">→</tspan> simplify <tspan fill="#9cff57">→</tspan> automate</text>
+    <text x="36" y="346" font-size="14"><tspan fill="#9cff57">kai@siberiaodens</tspan><tspan fill="#8f9990">:</tspan><tspan fill="#69aef8">~</tspan><tspan fill="#ecefe7">$ </tspan></text>
+    <rect x="207" y="333" width="9" height="16" fill="#9cff57"/>
+    <text x="924" y="346" text-anchor="end" font-size="11" fill="#8f9990">SCROLL TO INSPECT ↓</text>
+  </g>
+</svg>
